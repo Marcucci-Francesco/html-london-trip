@@ -1,71 +1,17 @@
-Title
+VIAGGIO A LONDRA
 ===
-Abstract:xxx
-## Papar Information
-- Title:  `paper name`
-- Authors:  `A`,`B`,`C`
-- Preprint: [https://arxiv.org/abs/xx]()
-- Full-preprint: [paper position]()
-- Video: [video position]()
-
-## Install & Dependence
-- python
-- pytorch
-- numpy
-
-## Dataset Preparation
-| Dataset | Download |
-| ---     | ---   |
-| dataset-A | [download]() |
-| dataset-B | [download]() |
-| dataset-C | [download]() |
-
-## Use
-- for train
-  ```
-  python train.py
-  ```
-- for test
-  ```
-  python test.py
-  ```
-## Pretrained model
-| Model | Download |
-| ---     | ---   |
-| Model-1 | [download]() |
-| Model-2 | [download]() |
-| Model-3 | [download]() |
-
-
-## Directory Hierarchy
-```
-|—— README.md
-```
-## Code Details
-### Tested Platform
-- software
-  ```
-  OS: Debian unstable (May 2021), Ubuntu LTS
-  Python: 3.8.5 (anaconda)
-  PyTorch: 1.7.1, 1.8.1
-  ```
-- hardware
-  ```
-  CPU: Intel Xeon 6226R
-  GPU: Nvidia RTX3090 (24GB)
-  ```
-### Hyper parameters
-```
-```
-## References
-- [paper-1]()
-- [paper-2]()
-- [code-1](https://github.com)
-- [code-2](https://github.com)
-  
-## License
-
-## Citing
-If you use xxx,please use the following BibTeX entry.
-```
-```
+Creazione pagina HTML 
+## Testo dell'esercizio
+1. creare nuova cartella per l'esercizio collegando la repo su GitHub con il nome "html-london-trip"
+2. Creare un file index.html all'interno della cartella "html-london-trip"
+3. Creare una sottocartella "img" all'interno della cartella "html-london-trip" inserendoci le relative immagini, utilizzando path assoluti per le ultime due immagini.
+## Cose da fare
+1. Creare repo su GtHub e clonare su VSCode
+2. Creare file README.md
+3. Creare file index.html
+4. Creare sottocartella "img"
+5. Dividere in macroaree il progetto
+6. Completare prima area header
+7. Completare main e relative section
+8. Completare il footer
+9. Committare e pushare ad ogni step
